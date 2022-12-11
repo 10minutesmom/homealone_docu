@@ -1,5 +1,5 @@
 # homealone_docu
-Tech blog link : https://helix-evening-373.notion.site/HOME-ALONE-34634be4455f4dd9a5b7a8c490dc4f03
+Tech blog link : bit.ly/sehomealone
 
 # introduction
 Childcare has been a major issue due to the rapid growth of dual-income families. Home Alone application is willing to solve the problems that arise from this type of family. Home Alone supervises a child alone at home in two terms. 
